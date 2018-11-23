@@ -1,2 +1,2 @@
 # XWRequest
-基于AF的网络请求框架
+基于Alamofire的网络请求框架
