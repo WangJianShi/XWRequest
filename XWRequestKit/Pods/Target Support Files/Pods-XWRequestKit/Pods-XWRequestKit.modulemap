@@ -1,0 +1,6 @@
+module Pods_XWRequestKit {
+  umbrella header "Pods-XWRequestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
